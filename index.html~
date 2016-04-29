@@ -84,8 +84,8 @@
 	<h4>Multi-Camera Multiple Object Tracker</h4>
 	Developed a consolidated utility to track multiple objects in multiple networked cameras in real-time. Features included: handshaking between multiple camera views for consistent object labeling, auto-initialization of the TLD (tracking-learning-detection) tracker using GMM based motion detector.<br><br>
 	<hr>
-	<i>Contact <br>
-	Email: das.190@osu.edu <br><br></i>
+	Contact <br>
+	Email: das.190@osu.edu <br><br>
 	
 </body>
 </html>
